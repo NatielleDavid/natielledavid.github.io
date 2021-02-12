@@ -1,0 +1,33 @@
+
+h1 {
+    text-align: center;
+    font-family: 'Lexend Mega', sans-serif;
+}
+
+h2 {
+    color: #ca5010;
+    font-size: 17px;
+}
+
+h3 {
+    color: #a4262c;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+li {
+    list-style: none;
+    margin-left: 0px;
+}
+
+body {
+    text-align: justify;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+#fotoperfil {
+    border-radius: 20%;
+    margin: auto;
+    display: block;
+}
