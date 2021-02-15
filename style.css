@@ -7,12 +7,17 @@ h1 {
 h2 {
     color: #ca5010;
     font-size: 17px;
+    text-align: center;
+    display: inline;
+    margin-right: 20px;
+    
 }
 
 h3 {
     color: #a4262c;
     font-size: 20px;
     font-weight: 700;
+    
 }
 
 li {
@@ -24,10 +29,29 @@ body {
     text-align: justify;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
+    padding: 20px;
 }
 
-#fotoperfil {
-    border-radius: 20%;
-    margin: auto;
-    display: block;
+a {
+    text-decoration: none;
+}
+
+.cabecalho-superior {
+    text-align: center;
+}
+
+.foto-perfil {
+    float: left;
+    margin-right: 10px;
+    margin-top: 7px;
+    
+}
+
+.cabecalho {
+    margin-bottom: 50px;
+    border-bottom: 20px;
+}
+
+.cabecalho p {
+    
 }
