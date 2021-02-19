@@ -25,6 +25,11 @@ li {
     margin-left: 0px;
 }
 
+header, nav {
+    text-align: center;
+    align-items: center;
+}
+
 body {
     text-align: justify;
     font-family: 'Open Sans', sans-serif;
@@ -34,10 +39,6 @@ body {
 
 a {
     text-decoration: none;
-}
-
-.cabecalho-superior {
-    text-align: center;
 }
 
 .foto-perfil {
